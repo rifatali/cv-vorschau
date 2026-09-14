@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- A microglial cell in ink on paper, one ion in amber on its way to a process. -->
+  <rect width="64" height="64" rx="14" fill="#f4f1ea"/>
+  <g fill="none" stroke="#1b1a17" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="3.6" d="M30 35 Q25 27 17 20"/>
+    <path stroke-width="3.6" d="M30 35 Q36 28 43 17"/>
+    <path stroke-width="3.6" d="M30 35 Q21 38 10 36"/>
+    <path stroke-width="3.6" d="M30 35 Q33 44 30 55"/>
+    <path stroke-width="3.6" d="M30 35 Q39 39 51 45"/>
+    <path stroke-width="2.2" d="M21 24 Q17 24 12 27"/>
+    <path stroke-width="2.2" d="M38 25 Q43 24 48 26"/>
+    <path stroke-width="2.2" d="M15 37 Q12 41 10 46"/>
+    <path stroke-width="2.2" d="M31 46 Q36 49 40 54"/>
+    <path stroke-width="2.2" d="M42 41 Q46 46 49 52"/>
+    <path stroke-width="1.6" d="M17 20 Q14 16 12 13"/>
+    <path stroke-width="1.6" d="M43 17 Q45 13 46 10"/>
+    <path stroke-width="1.6" d="M51 45 Q55 47 57 50"/>
+  </g>
+  <ellipse cx="30" cy="35" rx="7.2" ry="6.2" transform="rotate(-20 30 35)" fill="#1b1a17"/>
+  <circle cx="51" cy="13" r="3.4" fill="#c67c26"/>
+</svg>
