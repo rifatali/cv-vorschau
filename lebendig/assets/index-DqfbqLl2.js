@@ -303,9 +303,9 @@ draft: true
 
 Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
-[Akademischer Grad] Ali Rifat
-[Straße und Hausnummer]
-[Postleitzahl] Berlin
+[Akademischer Grad] Ali Rifat<br>
+[Straße und Hausnummer]<br>
+[Postleitzahl] Berlin<br>
 E-Mail: [E-Mail-Adresse]
 
 ## 2. Das Wesentliche
@@ -381,14 +381,14 @@ draft: true
 
 ## Anbieter
 
-[Akademischer Grad] Ali Rifat
-[Straße und Hausnummer]
-[Postleitzahl] Berlin
+[Akademischer Grad] Ali Rifat<br>
+[Straße und Hausnummer]<br>
+[Postleitzahl] Berlin<br>
 Deutschland
 
 ## Kontakt
 
-E-Mail: [E-Mail-Adresse]
+E-Mail: [E-Mail-Adresse]<br>
 Telefon: [Telefonnummer, optional]
 
 ## Berufsbezeichnung und berufsrechtliche Regelungen
