@@ -367,7 +367,7 @@ für mich ist die Berliner Beauftragte für Datenschutz und Informationsfreiheit
 
 ## 8. Stand
 
-14. September 2026. Ich passe diese Erklärung an, wenn sich die Website oder die Rechtslage ändert.
+Stand: 14. September 2026. Ich passe diese Erklärung an, wenn sich die Website oder die Rechtslage ändert.
 `,J0=`---
 title: Impressum
 summary: Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG) und § 18 Abs. 2 Medienstaatsvertrag (MStV).
